@@ -1,1 +1,1 @@
-# JS-challenges
+# JS-challenges from Udemy Course
